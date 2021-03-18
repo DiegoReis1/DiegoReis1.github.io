@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "SoGrade",
+  "launch_path": "/SoGrade.html",
+  "description": "Mude Aqui",
+  "icons": {
+    "60":"/icons/icon-60.png",
+    "90":"/icons/icon-90.png",
+    "32":"/icons/icon-32.png",
+    "256":"/icons/icon-256.png",
+    "128": "/icons/icon-128.png"
+  },
+  "developer": {
+    "name": "Diego Souza Reis",
+    "url": "https://www.facebook.com/diego.souzareis.1"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "pt-br"
+}
